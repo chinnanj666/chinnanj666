@@ -10,10 +10,10 @@ My full name is Chinna N J, I am a professional and enthusiastic programmer in m
 * 🖥️  See my portfolio at [MyPortfolio](http://https://chinnnajdev.netlify.app/)
 * ✉️  You can contact me at [Chinnureddy010@gmail.com](mailto:Chinnureddy010@gmail.com)
 * 🧠  I'm learning Nextjs
-* 🤝  I'm open to collaborating on Almost all the stacks of Back-End web-application 
+* 🤝  I'm open to collaborating on Almost all the stacks of Back-End web-application.
+ <br />
 
-<a href="https://www.github.com/chinnanj666" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/chinnanj666?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
+ ![Profile Views](https://komarev.com/ghpvc/?username=chinna666&label=PROFILE+VIEWS)
 
 ### Skills
 
