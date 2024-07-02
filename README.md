@@ -7,7 +7,7 @@ I'm a Professional Software Developer
 My full name is Chinna N J, I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [MyPortfolio](http://https://chinnnajdev.netlify.app/)
+* 🖥️  See my portfolio at [MyPortfolio](https://chinnnajdev.netlify.app/)
 * ✉️  You can contact me at [Chinnureddy010@gmail.com](mailto:Chinnureddy010@gmail.com)
 * 🧠  I'm learning Nextjs
 * 🤝  I'm open to collaborating on Almost all the stacks of Back-End web-application.
