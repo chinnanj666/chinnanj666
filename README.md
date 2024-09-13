@@ -8,7 +8,6 @@ My full name is Chinna N J, I am a professional and enthusiastic programmer in m
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [MyPortfolio](https://chinnnajdev.netlify.app/)
-* ✉️  You can contact me at [Chinnureddy010@gmail.com](mailto:Chinnureddy010@gmail.com)
 * 🧠  I'm learning Nextjs
 * 🤝  I'm open to collaborating on Almost all the stacks of Back-End web-application.
  <br />
