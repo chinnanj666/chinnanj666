@@ -1,7 +1,5 @@
 # Hi there, I'm Chinna NJ ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-![GitHub Banner](https://user-images.githubusercontent.com/76949805/133797394-6a16ab60-c29d-4c99-bec3-cf1a8fae9f87.png)
-
 I'm a Professional Software Developer
 -------------------------------------
 
@@ -14,7 +12,7 @@ My full name is Chinna N J, I am a professional and enthusiastic programmer in m
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chinnanj666&label=PROFILE+VIEWS)
 
-### 🛠️ Languages and Tools
+### Skills
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -30,7 +28,7 @@ My full name is Chinna N J, I am a professional and enthusiastic programmer in m
 <a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" width="36" height="36" alt="MacOS" /></a>
 </p>
 
-### 📫 Connect with Me
+### Socials
 
 <p align="left"> 
 <a href="https://www.dev.to/chinnanj" target="_blank" rel="noreferrer"> 
@@ -56,33 +54,12 @@ My full name is Chinna N J, I am a professional and enthusiastic programmer in m
 </a>
 </p>
 
-### 🏆 GitHub Trophies
+### Badges
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=chinnanj666&theme=darkhub&no-frame=true&margin-w=15&margin-h=15)](https://github.com/chinnanj666/github-profile-trophy)
+<b>My GitHub Stats</b>
 
-### 📈 GitHub Stats
-
-<p align="left">
 <a href="http://www.github.com/chinnanj666"><img src="https://github-readme-stats.vercel.app/api?username=chinnanj666&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="chinnanj666's GitHub stats" /></a>
-</p>
 
-<p align="left">
 <a href="http://www.github.com/chinnanj666"><img src="https://github-readme-streak-stats.herokuapp.com/?user=chinnanj666&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-</p>
 
-<p align="left">
 <a href="https://github.com/chinnanj666" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinnanj666&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</p>
-
-### 🎮 GitHub Profile Games
-
-<p align="left">
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=chinnanj666&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" /></a>
-</p>
-
-<p align="left">
-<a href="https://github.com/marketplace/actions/instagram-badge"><img src="https://img.shields.io/badge/Instagram--blue?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge" /></a>
-<a href="https://github.com/marketplace/actions/linkedin-badge"><img src="https://img.shields.io/badge/LinkedIn--blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
-<a href="https://github.com/marketplace/actions/devto-badge"><img src="https://img.shields.io/badge/Dev.to--blue?style=flat&logo=dev.to&logoColor=white" alt="Dev.to Badge" /></a>
-<a href="https://github.com/marketplace/actions/github-badge"><img src="https://img.shields.io/badge/GitHub--blue?style=flat&logo=github&logoColor=white" alt="GitHub Badge" /></a>
-</p>
