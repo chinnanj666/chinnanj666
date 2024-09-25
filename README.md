@@ -1,7 +1,7 @@
 # Hi there, I'm Chinna NJ ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 I'm a Professional Software Developer
--------------------------------------
+------------------------------------
 
 My full name is Chinna N J, I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies & am passionate about problem-solving.
 
