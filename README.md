@@ -7,7 +7,7 @@ My full name is Chinna N J, I am a professional and enthusiastic programmer in m
 
 * 🌍  I'm based in India   
  
-* 🧠  I'm learning Next.js
+* 🧠  I'm learning Next.js 
 * 🤝  I'm open to collaborating on almost all the stacks of back-end web applications.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chinnanj666&label=PROFILE+VIEWS)
