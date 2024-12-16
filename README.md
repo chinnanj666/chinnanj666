@@ -4,9 +4,7 @@ I'm a Professional Software Developer
 ------------------------------------
         
 My full name is Chinna N J, I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude.I love to learn and explore new technologies & am passionate about problem-solving.
- 
---* 🌍  I'm based in India          
-* 🧠  I'm learning Next.js 
+        
 * 🤝  I'm open to collaborating on almost all the stacks of back-end web applications.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chinnanj666&label=PROFILE+VIEWS)  
