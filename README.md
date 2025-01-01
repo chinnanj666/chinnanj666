@@ -1,5 +1,4 @@
-# Hi there, I'm Chinna NJ ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
- 
+# Hi there, I'm Chinna NJ  
 I'm a Professional Software Developer
 ------------------------------------
         
