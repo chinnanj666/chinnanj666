@@ -1,4 +1,4 @@
-# Hi there, I'm Chinna NJ  
+# Hi there, I'm Chinna.
 I'm a Professional Software Developer
 ------------------------------------
         
