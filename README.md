@@ -25,7 +25,7 @@ My full name is Chinna N J, I am a professional and enthusiastic programmer in m
 <a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" width="36" height="36" alt="MacOS" /></a>
 </p>
 
-### Socials
+### Socials  
 
 <p align="left"> 
 <a href="https://www.dev.to/chinnanj" target="_blank" rel="noreferrer"> 
