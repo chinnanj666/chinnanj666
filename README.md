@@ -1,13 +1,17 @@
-# Hi there, I'm Chinna.
-I'm a Professional Software Developer
-------------------------------------
-         
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+chinna....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>         
 My full name is Chinna N J, I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude.I love to learn and explore new technologies & am passionate about problem-solving.   
 
          
 * 🤝  I'm open to collaborating on almost all the stacks of back-end web applications.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chinnanj666&label=PROFILE+VIEWS)   
+
+### 📖 Latest Blog Posts
+[![Read my blog](https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/chinnanj/latest)
 
 ### Skills
  
@@ -54,10 +58,15 @@ My full name is Chinna N J, I am a professional and enthusiastic programmer in m
 
 ### Badges
   
-<b>My GitHub Stats</b>
+<b>My GitHub Stats</b> 
+[![GitHub Stars](https://img.shields.io/github/stars/chinnanj666?style=social)](https://github.com/chinnanj666)
 
 <a href="http://www.github.com/chinnanj666"><img src="https://github-readme-stats.vercel.app/api?username=chinnanj666&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="chinnanj666's GitHub stats" /></a>
 
 <a href="http://www.github.com/chinnanj666"><img src="https://github-readme-streak-stats.herokuapp.com/?user=chinnanj666&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/chinnanj666" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinnanj666&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+### 🏆 Achievements
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=chinnanj666&theme=onedark&no-frame=true)
