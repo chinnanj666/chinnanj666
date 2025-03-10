@@ -9,7 +9,7 @@ My full name is Chinna N J, I am a professional and enthusiastic programmer in m
 * 🤝  I'm open to collaborating on almost all the stacks of back-end web applications.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chinnanj666&label=PROFILE+VIEWS)   
-
+   
 ### 📖 Latest Blog Posts
 [![Read my blog](https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/chinnanj/latest)
 
