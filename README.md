@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+chinna....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>          
-My full name is Chinna N J, I am a professional and enthusiastic programmer in my daily life. 
+My full name is Chinna N J, I am a professional and enthusiastic programmer in my daily life. <br>
 I am a quick learner with a self-learning attitude.I love to learn and explore new technologies & am passionate about problem-solving.   
 
          
