@@ -5,7 +5,7 @@
 
   
 </h1>          
-My full name is Chinna N J, I am a professional and enthusiastic programmer in my daily life. <br>
+My full name is Chinna, I am a professional and enthusiastic programmer in my daily life. <br>
 I am a quick learner with a self-learning attitude.I love to learn and explore new technologies & am passionate about problem-solving.   
 
 * 🤝  I'm open to collaborating on almost all the stacks of back-end web applications.
