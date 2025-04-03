@@ -1,10 +1,13 @@
         
-My full name is Chinna, I am a professional and enthusiastic programmer in my daily life. <br>
-I am a quick learner with a self-learning attitude.I love to learn and explore new technologies & am passionate about problem-solving.   
+<div align="center">
+  <h1>Chinna </h1>
+<h3>Software Developer</h3>
+  <p>Building Robust Back-End Solutions with Passion and Precision</p>
+  <img src="https://komarev.com/ghpvc/?username=chinnanj666&label=Profile%20Views&color=0891b2&style=flat" alt="Profile Views" />
+</div>
 
-* 🤝  I'm open to collaborating on almost all the stacks of back-end web applications.
-
-![Profile Views](https://komarev.com/ghpvc/?username=chinnanj666&label=PROFILE+VIEWS)   
+---
+<!--![Profile Views](https://komarev.com/ghpvc/?username=chinnanj666&label=PROFILE+VIEWS) -->  
    
 ### 📖 Latest Blog Posts
 [![Read my blog](https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/chinnanj/latest)
@@ -65,4 +68,14 @@ I am a quick learner with a self-learning attitude.I love to learn and explore n
 
 <!--
 ### 🏆 Achievements
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=chinnanj666&theme=onedark&no-frame=true)>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=chinnanj666&theme=onedark&no-frame=true) -->
+
+
+
+
+
+
+<div align="center">
+  <p>Thank you for visiting my profile! I’m committed to advancing technology through collaboration and innovation.</p>
+  <p><i>Last Updated: April 03, 2025</i></p>
+</div>
