@@ -1,14 +1,11 @@
-        
 <div align="center">
-  <h1>Chinna </h1>
-<h3>Software Developer</h3>
+   <img src="https://img.shields.io/badge/Chinna-FFC107?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSIjRkY1NzIyIj48cGF0aCBkPSJNMTIgMkM2LjQ4IDIgMiA2LjQ4IDIgMTJzNC40OCAxMCAxMCAxMCAxMC00LjQ4IDEwLTEwUzE3LjUyIDIgMTIgMnptMCAxOGMtNC40MSAwLTgtMy41OS04LThzMy41OS04IDgtOGM0LjQxIDAgOCAzLjU5IDggOHMtMy41OSA4LTggOHoiLz48L3N2Zz4=" alt="Chinna" />
+  <img src="https://img.shields.io/badge/Software%20Developer-FF5722?style=for-the-badge" alt="Software Developer" />
   <p>Building Robust Back-End Solutions with Passion and Precision</p>
   <img src="https://komarev.com/ghpvc/?username=chinnanj666&label=Profile%20Views&color=0891b2&style=flat" alt="Profile Views" />
 </div>
 
----
-<!--![Profile Views](https://komarev.com/ghpvc/?username=chinnanj666&label=PROFILE+VIEWS) -->  
-   
+---  
 ### 📖 Latest Blog Posts
 [![Read my blog](https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/chinnanj/latest)
 
