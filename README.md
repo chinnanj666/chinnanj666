@@ -7,7 +7,7 @@
 
 ---  
 ### 📖 Latest Blog Posts
-[![Read my blog](https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/steal/latest)
+[![Read my blog](https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/steal)
 
 ### Skills 
 <p align="left">
