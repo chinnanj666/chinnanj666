@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/Software%20Developer-FF5722?style=for-the-badge" alt="Software Developer" /> 
   <p>Building Robust Back-End Solutions with Passion and Precision</p>
   <img src="https://komarev.com/ghpvc/?username=chinnanj666&label=Profile%20Views&color=0891b2&style=flat" alt="Profile Views" />
-</div>
+</div> 
 
 ---  
 ### 📖 Latest Blog Posts
