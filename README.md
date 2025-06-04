@@ -72,6 +72,6 @@
 
 
 <div align="center">
-  <p>Thank you for visiting my profile! I’m committed to advancing technology through collaboration and innovation.</p>
+  <p>Thank you for visiting my profile!.</p>
   <p><i>Last Updated: April 03, 2025</i></p>
 </div>
