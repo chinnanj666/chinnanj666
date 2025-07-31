@@ -66,12 +66,3 @@
 ### 🏆 Achievements
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=chinnanj666&theme=onedark&no-frame=true) -->
 
-
-
-
-
-
-<div align="center">
-  <p>Thank you for visiting my profile!.</p>
-  <p><i>Last Updated: April 03, 2025</i></p>
-</div>
