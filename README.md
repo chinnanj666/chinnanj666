@@ -1,13 +1,50 @@
 <div align="center">
-   <img src="https://img.shields.io/badge/Chinna-FFC107?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSIjRkY1NzIyIj48cGF0aCBkPSJNMTIgMkM2LjQ4IDIgMiA2LjQ4IDIgMTJzNC40OCAxMCAxMCAxMCAxMC00LjQ4IDEwLTEwUzE3LjUyIDIgMTIgMnptMCAxOGMtNC40MSAwLTgtMy41OS04LThzMy41OS04IDgtOGM0LjQxIDAgOCAzLjU5IDggOHMtMy41OSA4LTggOHoiLz48L3N2Zz4=" alt="Chinna" />
-  <img src="https://img.shields.io/badge/Software%20Developer-FF5722?style=for-the-badge" alt="Software Developer" /> 
-  <p>Building Robust Back-End Solutions with Passion and Precision</p>
-  <img src="https://komarev.com/ghpvc/?username=chinnanj666&label=Profile%20Views&color=0891b2&style=flat" alt="Profile Views" />
-</div> 
-   
+
+  <!-- Logo & Name -->
+  <h1>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" alt="GitHub" />
+    <b style="color:#FFC107; text-shadow: 0 0 8px rgba(255, 193, 15, 0.4);">Chinna</b>
+    <!--<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" alt="GitHub" / -->
+  </h1>
+
+  <!-- Tagline with Emoji Flair -->
+  <p style="font-size:1.2em;">
+    🔧 Backend Engineer | 💻 C++ & Python | 🚀 Building Systems That Scale
+  </p>
+
+  <!-- Developer Badge -->
+  <img src="https://img.shields.io/badge/Software_Developer-FF5722?style=for-the-badge&logo=code&logoColor=white" alt="Software Developer" />
+
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=chinnanj666&label=Profile%20Views&color=0891b2&style=flat-square" alt="Profile Views" />
+</div>
+
 ---      
-### 📖 Latest Blog Posts
-[![Read my blog](https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/steal)
+### ✍️ Latest Blog Posts
+
+<div align="left">
+  <a href="https://dev.to/steal">
+    <img src="https://img.shields.io/badge/Read%20on%20DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.to Blog" />
+  </a>
+</div>
+
+---
+
+### 🌐 Connect With Me
+
+<div align="left">
+  <a href="https://dev.to/steal" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" alt="DEV.to" />
+  </a>
+  <a href="https://www.github.com/chinnanj666" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/chinnanj" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
+  </a>
+</div>
+
+---
 
 ### Skills 
 <p align="left">
@@ -23,45 +60,27 @@
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 <a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" width="36" height="36" alt="MacOS" /></a>
 </p>
+
+---
     
-### Socials  
+### 📊 GitHub Stats
 
-<p align="left"> 
-<a href="https://dev.to/steal" target="_blank" rel="noreferrer"> 
-<picture> 
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> 
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> 
-</picture> 
-</a> 
-<a href="https://www.github.com/chinnanj666" target="_blank" rel="noreferrer"> 
-<picture> 
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
-</picture>  
-</a>      
-<a href="https://www.linkedin.com/in/chinnanj" target="_blank" rel="noreferrer"> 
-<picture> 
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
-</picture> 
-</a>
-</p>
+<div align="left">
+  <a href="https://github.com/chinnanj666">
+    <img src="https://github-readme-stats.vercel.app/api?username=chinnanj666&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/chinnanj666">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chinnanj666&stroke=ffffff&background=0d1117&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+  </a>
+ <!-- <a href="https://github.com/chinnanj666">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinnanj666&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" / -->
+  </a>
+</div>
 
- 
-### Badges
-  
-<b>My GitHub Stats</b> 
-[![GitHub Stars](https://img.shields.io/github/stars/chinnanj666?style=social)](https://github.com/chinnanj666)
- 
-<a href="http://www.github.com/chinnanj666"><img src="https://github-readme-stats.vercel.app/api?username=chinnanj666&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="chinnanj666's GitHub stats" /></a>
-
-<a href="http://www.github.com/chinnanj666"><img src="https://github-readme-streak-stats.herokuapp.com/?user=chinnanj666&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/chinnanj666" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinnanj666&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
- 
+---
+<div align="center">
+  <sub>✨ Powered by passion for clean code and scalable systems | Let's build something great together! 💻</sub>
+</div>
 <!--
 ### 🏆 Achievements
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=chinnanj666&theme=onedark&no-frame=true) -->
