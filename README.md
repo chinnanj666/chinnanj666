@@ -1,10 +1,8 @@
 <div align="center">
-
   <!-- Logo & Name -->
   <h1>
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" alt="GitHub" />
-    <b style="color:#FFC107; text-shadow: 0 0 8px rgba(255, 193, 15, 0.4);">Chinna</b>
-    <!--<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" alt="GitHub" / -->
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30" alt="GitHub" />
+    <span style="color: #FF8C00; font-weight: bold; font-size: 1.8em;">Chinna</span>
   </h1>
 
   <!-- Tagline with Emoji Flair -->
@@ -19,7 +17,6 @@
   <img src="https://komarev.com/ghpvc/?username=chinnanj666&label=Profile%20Views&color=0891b2&style=for-the-badge&logo=code&logoColor=white" alt="Profile Views" />
 </div>
 
----      
 ### ✍️ Latest Blog Posts
 
 <div align="left">
@@ -28,7 +25,7 @@
   </a>
 </div>
 
----
+
 
 ### 🌐 Connect With Me
 
@@ -44,7 +41,7 @@
   </a>
 </div>
 
----
+
 
 ### Skills 
 <p align="left">
@@ -61,7 +58,7 @@
 <a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" width="36" height="36" alt="MacOS" /></a>
 </p>
 
----
+
     
 ### 📊 GitHub Stats
 
