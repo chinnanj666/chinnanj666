@@ -9,14 +9,14 @@
 
   <!-- Tagline with Emoji Flair -->
   <p style="font-size:1.2em;">
-    🔧 Backend Engineer | 💻 C++ & Python | 🚀 Building Systems That Scale
+    🔧 Backend Engineer, GenAI | 💻 Python & GoLang | 🚀 Building Systems That Scale
   </p>
 
   <!-- Developer Badge -->
-  <img src="https://img.shields.io/badge/Software_Developer-FF5722?style=for-the-badge&logo=code&logoColor=white" alt="Software Developer" />
+  <img src="https://img.shields.io/badge/Software_Developer-0891b2?style=for-the-badge&logo=code&logoColor=white" alt="Software Developer" />
 
   <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=chinnanj666&label=Profile%20Views&color=0891b2&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=chinnanj666&label=Profile%20Views&color=0891b2&style=for-the-badge&logo=code&logoColor=white" alt="Profile Views" />
 </div>
 
 ---      
