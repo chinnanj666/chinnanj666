@@ -3,7 +3,7 @@
   <h1>
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30" alt="GitHub" />
     <span style="color: #FF8C00; font-weight: bold; font-size: 1.8em;">Chinna</span>
-  </h1>
+  </h1> 
 
   <!-- Tagline with Emoji Flair -->
   <p style="font-size:1.2em;">
