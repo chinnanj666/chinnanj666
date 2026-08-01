@@ -13,15 +13,14 @@
 </div>
 
 ---
-
 # 🚀 About Me
 
-- 🔭 Building scalable AI Agents & Backend Systems
-- 🌱 Exploring Distributed Systems & Go
-- 🤖 Passionate about GenAI, LangGraph, MCP & RAG
-- ⚡ Backend-first developer who enjoys system design
-- 💬 Ask me about Python, FastAPI, LangGraph, Azure OpenAI
-
+- 🚀 Creator of **[Docline](https://github.com/doclines/docline-core)**, an open-source documentation platform for building modern, fast, and customizable documentation websites.
+- 🛠️ Building tools that make documentation simple, developer-friendly, and easy to maintain.
+- 🔭 Building scalable AI Agents & Backend Systems.
+- 🌱 Exploring Distributed Systems & Go.
+- 🤖 Passionate about GenAI, LangGraph, MCP & RAG.
+- ⚡ Backend-first developer who enjoys system design.
 ---
 
 # 🌐 Connect
